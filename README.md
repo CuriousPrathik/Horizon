@@ -1,1 +1,2 @@
 # Horizon
+A passion project
